@@ -1,0 +1,93 @@
+body{
+    overflow: auto;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#cover{
+    background-image: url('Cover_photo.png');
+    width: 100%;
+    height: auto;
+    background-size: contain;
+}
+
+#logo{
+    margin-left: 5vw;
+}
+
+#search{
+    margin-top: 1vw;
+}
+
+h1{
+    text-align: center;
+    font-weight: bolder;
+}
+
+h3{
+    text-align: center;
+    color: lightgrey;
+}
+
+h2{
+    text-align: justify;
+}
+
+p{
+    text-align: justify;
+    color: darkgray;
+}
+
+#group1{
+    border-bottom: 1px solid lightgray;
+}
+
+#group2{
+    border-bottom: 1px solid lightgray;
+}
+#group3{
+    border-bottom: 1px solid lightgray;
+}
+
+#button{
+    color:white;
+    background-color: mediumseagreen;
+    padding: 5px;
+    text-align: center;
+    margin-left: 0px auto;
+}
+
+#img1{
+    height: auto;
+    width: 100%;
+    margin-top: 10vw;
+    align-self: right;
+}
+#img2{
+    height: auto;
+    width: 100%;
+    margin-top: 10vw;
+}
+#img3{
+    height: auto;
+    width: 100%;
+    margin-top: 20vw;
+    margin-left: -8vw;
+}
+#img4{
+    height: auto;
+    width: 100%;
+    margin-top: 14vw;
+    margin-left: 8vw;
+    z-index: -1;
+}
+#img5{
+    height: auto;
+    width: 100%;
+    margin-top: 10vw;
+}
+
+#text1, #text2, #text3{
+    padding: 10vw;
+    }
